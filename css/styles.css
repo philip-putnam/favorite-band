@@ -1,0 +1,17 @@
+ul {
+  list-style-type: none;
+}
+
+.sidebar {
+  float: left;
+  margin-right: 40px;
+  width: 200px;
+  border: 2px solid black;
+  background: lightblue;
+}
+
+.paragraph {
+  float: right;
+  width: 400px;
+  background-color: green;
+}
